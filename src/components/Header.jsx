@@ -32,7 +32,7 @@ function Header() {
     >
       <div className="flex-row">
         <img src={logo} alt="Logo" className="logo" />
-        <p className="logo-text">BOYE A.Ş.</p>
+        <p className="logo-text">YOBEX A.Ş.</p>
       </div>
 
       <div className="flex-row">
